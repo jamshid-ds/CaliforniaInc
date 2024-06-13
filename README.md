@@ -6,17 +6,22 @@ Technologies which i used
 <br>
 <br>
 **pandas**
+
 <br>
 **numpy**
 
 <br>
 **sklearn**
+
 <br>
 **seaborn**
+
 <br>
 **joblib**
+
 <br>
 **matplotlib**
+
 <br>
 <br>
 <br>
